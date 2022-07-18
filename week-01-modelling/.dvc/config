@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+[cache]
+    type = "hardlink,symlink"
+['remote "myremote"']
+    url = gdrive://1fkeLhBokxpBS61ujiijapMe9UM6Ro1MW
