@@ -14,9 +14,9 @@
 | Cls, dev, ops| 02.08.2022 | 18:00| CI/CD, Ansible |
 |Выдыхаем, перевариваем, делаем задание, засыпаем спикеров вопросами|02.08.2022-12.08.2022| 
 | *Optional*| 09.08.2022| 18:00 | Делаем резюме | 
-| Segm & ObjDet | 13.08.2022 | 10:00| Сегментация |
+| Segm & ObjDet | 13.08.2022| 10:00| Толока |
 | Segm & ObjDet | 20.08.2022 | 10:00| Мониторинги (Sentry, Grafana, Prometheus) |
-| Segm & ObjDet | 27.08.2022| 10:00| Толока |
+| Segm & ObjDet | 27.08.2022 | 10:00| Сегментация |
 | Segm & ObjDet | 03.09.2022 | 10:00| Квантизация, дистилляция, прунинг |
 | Segm & ObjDet | 10.09.2022 | 10:00| Object Detection, tracking |
 | FaceRec&Classical CV | 17.09.2022 | 10:00| Face Recognition |
