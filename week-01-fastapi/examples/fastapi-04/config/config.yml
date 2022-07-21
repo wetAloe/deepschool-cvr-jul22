@@ -1,0 +1,7 @@
+services:
+  scrapper:
+    url: 'https://ru.wikipedia.org/wiki'
+
+repos:
+  wiki_repo:
+    dir: 'wiki_files'
