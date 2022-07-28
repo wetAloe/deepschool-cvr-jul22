@@ -10,12 +10,13 @@
 | Cls, dev, ops | 19.07.2022 | 18:00| Сервис, FastAPI |
 | Cls, dev, ops | 23.07.2022 | 10:00| Моделлинг ч.2, JIT |
 | Cls, dev, ops | 26.07.2022 | 18:00| Тесты (PyTest), Линтеры, Docker|
-| Cls, dev, ops | 30.07.2022 | 10:00| TensorRT, ONNX, DALI |
+| Cls, dev, ops | 30.07.2022 | 10:00| DALI |
 | Cls, dev, ops| 02.08.2022 | 18:00| CI/CD, Ansible |
 |Выдыхаем, перевариваем, делаем задание, засыпаем спикеров вопросами|02.08.2022-12.08.2022| 
 | *Optional*| 09.08.2022| 18:00 | Делаем резюме | 
 | Segm & ObjDet | 13.08.2022| 10:00| Толока |
 | Segm & ObjDet | 20.08.2022 | 10:00| Мониторинги (Sentry, Grafana, Prometheus) |
+| Segm & ObjDet | 23.08.2022 | 18:00| TensorRT, ONNX |
 | Segm & ObjDet | 27.08.2022 | 10:00| Сегментация |
 | Segm & ObjDet | 03.09.2022 | 10:00| Квантизация, дистилляция, прунинг |
 | Segm & ObjDet | 10.09.2022 | 10:00| Object Detection, tracking |
