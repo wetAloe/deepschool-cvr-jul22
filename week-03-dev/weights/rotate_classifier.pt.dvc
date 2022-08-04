@@ -1,0 +1,4 @@
+outs:
+- md5: 3c85c9f21f13b516860beac4abd2c2e5
+  size: 25380195
+  path: rotate_classifier.pt

@@ -1,0 +1,29 @@
+image: python:3.8
+
+variables:
+    ANSIBLE_HOST_KEY_CHECKING: "false"
+
+before_script:
+    - mkdir ~/.ssh
+    - echo "$HOST_SSH_KEY_BASE64" | base64 -d > ~/.ssh/id_rsa
+    - chmod 600 ~/.ssh/id_rsa
+
+after_script:
+    - rm -f ~/.ssh/id_rsa
+
+stages:
+  - run
+  - clean
+
+run:
+    stage: run
+    script:
+      - python3 -m pip install ansible
+      - ansible-playbook -i ansible/inventory.ini ansible/run.yml -e filename=$FILENAME
+
+clean:
+    stage: clean
+    script:
+      - python3 -m pip install ansible
+      - ansible-playbook -i ansible/inventory.ini ansible/clean.yml -e filename=$FILENAME
+    when: manual
