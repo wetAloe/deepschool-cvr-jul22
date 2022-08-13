@@ -7,12 +7,13 @@ import torch
 from src.base_config import Config
 from src.utils import preprocess_imagenet
 from torch.nn import BCEWithLogitsLoss
-from torch.optim.lr_scheduler import ReduceLROnPlateau
+from torch.optim.lr_scheduler import StepLR
 
 SEED = 42
 IMG_SIZE = 224
 BATCH_SIZE = 256
 N_EPOCHS = 100
+NUM_ITERATION_ON_EPOCH = 100
 ROOT_PATH = os.path.join(os.environ.get("ROOT_PATH"))
 
 augmentations = albu.Compose(
@@ -41,16 +42,16 @@ config = Config(
         "lr": 1e-3,
         "weight_decay": 5e-4,
     },
-    scheduler=ReduceLROnPlateau,
+    scheduler=StepLR,
     scheduler_kwargs={
-        "mode": "min",
-        "factor": 0.1,
-        "patience": 5,
+        "step_size": 30 * NUM_ITERATION_ON_EPOCH,
+        "gamma": 0.1,
     },
     img_size=IMG_SIZE,
     augmentations=augmentations,
     preprocessing=partial(preprocess_imagenet, img_size=IMG_SIZE),
     batch_size=BATCH_SIZE,
+    num_iteration_on_epoch=NUM_ITERATION_ON_EPOCH,
     n_epochs=N_EPOCHS,
     model_kwargs={"model_name": "resnet18", "pretrained": True},
     log_metrics=["auc", "f1"],
