@@ -1,0 +1,21 @@
+INPUT:image	GOLDEN:result	HINT:text
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/empty/10890781_2_18_18_54_52.jpg	empty	На этом изображении нет знака
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/27226427_2_109_83_327_309.jpg	bad	Правый край знака обрезан
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/15605398_2_60_10_180_110.jpg	bad	Верхний край знака обрезан
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/empty/7605919_1_33_31_99_91.jpg	empty	На этом изображении нет знака
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/ok/17601361_2_43_41_127_123.jpg	ok	Все края знака хорошо видны
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/7362481_2_30_34_90_102.jpg	bad	Левый край знака обрезан
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/17195567_1_22_19_64_55.jpg	bad	Нижний край знака обрезан
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/ok/808291_1_30_32_90_96.jpg	ok	Все края знака хорошо видны
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/ok/7197017_2_27_30_79_90.jpg	ok	Все края знака хорошо видны
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/empty/17773047_2_36_42_108_124.jpg	empty	На этом изображении нет знака
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/ok/4254789_2_33_33_99_99.jpg	ok	Все края знака хорошо видны
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/27226431_1_57_55_171_163.jpg	bad	Нижний край знака обрезан
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/ok/33607286_2_54_57_162_169.jpg	ok	Все края знака хорошо видны
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/32366320_2_67_44_199_166.jpg	bad	Верхний край знака обрезан
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/10284255_2_33_29_99_87.jpg	bad	Правый край знака обрезан
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/2482715_2_35_33_103_97.jpg	bad	Нижний и правый края знака обрезаны
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/ok/18359914_1_40_39_118_117.jpg	ok	Все края знака хорошо видны
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/3627807_2_23_2_67_44.jpg	bad	Верхний край знака обрезан
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/ok/30532490_2_41_41_121_121.jpg	ok	Все края знака хорошо видны
+https://storage.ds.2gis.one/toloka_roadly_crop/learning/bad/9279794_1_18_18_52_54.jpg	bad	Правый край знака обрезан
