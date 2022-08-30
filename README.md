@@ -19,7 +19,7 @@
 | Segm & ObjDet | 13.08.2022| 10:00| [Толока](week-04-toloka) |
 | Segm & ObjDet | 20.08.2022 | 10:00| ~~Мониторинги (Sentry, Grafana, Prometheus)~~ перенос на один из вторников |
 | Segm & ObjDet | 23.08.2022 | 18:00| TensorRT, ONNX |
-| Segm & ObjDet | 27.08.2022 | 10:00| Сегментация |
+| Segm & ObjDet | 27.08.2022 | 10:00| [Сегментация](week-05-segmentation) |
 | Segm & ObjDet | 03.09.2022 | 10:00| Квантизация, дистилляция, прунинг |
 | Segm & ObjDet | 10.09.2022 | 10:00| Object Detection, tracking |
 | FaceRec&Classical CV | 17.09.2022 | 10:00| Face Recognition |
