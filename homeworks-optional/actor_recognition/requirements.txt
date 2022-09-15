@@ -1,0 +1,9 @@
+numpy
+scipy
+insightface
+pillow
+filterpy
+ffmpeg-python
+numba
+onnxruntime-gpu
+click
