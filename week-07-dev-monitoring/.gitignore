@@ -1,0 +1,9 @@
+venv
+*.pt
+*.pytest_cache
+*.coverage
+*htmlcov*
+*.idea*
+*__pycache__*
+.dvc/tmp/
+.dvc/cache

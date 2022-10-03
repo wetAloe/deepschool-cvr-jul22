@@ -22,7 +22,7 @@
 | Segm & ObjDet                                                       | 03.09.2022            | 10:00        | [Квантизация, дистилляция, прунинг](week-06-compression)                   |
 | Segm & ObjDet                                                       | 10.09.2022            | 10:00        | Object Detection, tracking                                                 |
 | FaceRec&Classical CV                                                | 17.09.2022            | 10:00        | Face Recognition                                                           |
-| Segm & ObjDet                                                       | 20.09.2022            | 18:00        | Мониторинги (Sentry, Grafana, Prometheus)                                  |
+| Segm & ObjDet                                                       | 20.09.2022            | 18:00        | [Мониторинги (Sentry, Grafana, Prometheus)](week-07-dev-monitoring)                                  |
 | FaceRec&Classical CV                                                | 24.09.2022            | 10:00        | Классический CV                                                            |
 | OCR                                                                 | 01.10.2022            | 10:00        | OCR                                                                        |
 | OCR                                                                 | 08.10.2022            | 10:00        | GAN                                                                        |
