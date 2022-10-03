@@ -1,0 +1,9 @@
+services:
+  poster_classifier:
+    model_path: 'weights/genre_classifier.pt'
+    device: 'cpu'
+  rotate_classifier:
+    model_path: 'weights/rotate_classifier.pt'
+    device: 'cpu'
+sentry:
+  dsn: ''

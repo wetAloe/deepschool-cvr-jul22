@@ -1,0 +1,10 @@
+services:
+  poster_classifier:
+    model_path: 'weights/genre_classifier.pt'
+    device: ${oc.env:POSTER_DEVICE,'cpu'}
+  rotate_classifier:
+    model_path: 'weights/rotate_classifier.pt'
+    device: ${oc.env:ROTATE_DEVICE,'cpu'}
+
+sentry:
+  dsn: ${oc.env:SENTRY_DSN,''}
