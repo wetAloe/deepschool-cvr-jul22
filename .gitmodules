@@ -1,0 +1,4 @@
+[submodule "week-07-detection/mmdetection"]
+	path = week-07-detection/mmdetection
+	url = https://github.com/cakeofwar42/mmdetection/
+	branch = rocket_detection
