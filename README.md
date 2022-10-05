@@ -24,7 +24,7 @@
 | FaceRec&Classical CV                                                | 17.09.2022            | 10:00        | Face Recognition                                                           |
 | Segm & ObjDet                                                       | 20.09.2022            | 18:00        | [Мониторинги (Sentry, Grafana, Prometheus)](week-07-dev-monitoring)        |
 | FaceRec&Classical CV                                                | 24.09.2022            | 10:00        | Классический CV                                                            |
-| OCR                                                                 | 01.10.2022            | 10:00        | OCR                                                                        |
+| OCR                                                                 | 01.10.2022            | 10:00        | [OCR](week-10-ocr)                                                                        |
 | OCR                                                                 | 11.10.2022            | 18:00        | GAN                                                                        |
 | OCR                                                                 | 15.10.2022            | 10:00        | Диффузионные модели                                                        |
 | *Optional*                                                          | 18.10.2022            | 18:00        | Встреча с психологом                                                       |
