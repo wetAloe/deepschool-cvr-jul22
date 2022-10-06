@@ -1,0 +1,12 @@
+ts:
+  management_endpoint: http://localhost:8081
+  predictions_endpoint: http://localhost:8080
+
+served_model:
+  model_name: "my_model"
+  request_params:
+    url: 'http://192.168.0.105:5002/files/my_model.mar'
+    model_name: ${served_model.model_name}
+    batch_size: 2
+    initial_workers: 1
+    max_batch_delay: 50
