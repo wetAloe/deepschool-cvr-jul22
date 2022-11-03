@@ -1,0 +1,2 @@
+### Ссылка на материалы
+[Презентация](https://docs.google.com/presentation/d/1Ra6mupBY27zfoK9njn7g7jTiN0E8TMFPFUR6BAi1Ixg/edit?usp=sharing) - в комментариях докладчика указаны ссылки для каждого слайда
