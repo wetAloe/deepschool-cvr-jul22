@@ -20,13 +20,13 @@
 | Segm & ObjDet                                                       | 23.08.2022            | 18:00        | [TensorRT, ONNX](week-05-tensorrt)                                         |
 | Segm & ObjDet                                                       | 27.08.2022            | 10:00        | [Сегментация](week-05-segmentation)                                        |
 | Segm & ObjDet                                                       | 03.09.2022            | 10:00        | [Квантизация, дистилляция, прунинг](week-06-compression)                   |
-| Segm & ObjDet                                                       | 10.09.2022            | 10:00        | Object Detection, tracking                                                 |
-| FaceRec&Classical CV                                                | 17.09.2022            | 10:00        | Face Recognition                                                           |
+| Segm & ObjDet                                                       | 10.09.2022            | 10:00        | [Object Detection, tracking](week-07-detection)                                                 |
+| FaceRec&Classical CV                                                | 17.09.2022            | 10:00        | [Face Recognition](https://docs.google.com/presentation/d/1AP-i-BdDpIKM14xpurDlsNkGLCPQvO6ieyS8oFPU7js/edit?usp=sharing)                                                           |
 | Segm & ObjDet                                                       | 20.09.2022            | 18:00        | [Мониторинги (Sentry, Grafana, Prometheus)](week-07-dev-monitoring)        |
-| FaceRec&Classical CV                                                | 24.09.2022            | 10:00        | Классический CV                                                            |
+| FaceRec&Classical CV                                                | 24.09.2022            | 10:00        | [Классический CV](https://docs.google.com/presentation/d/1_YJBIOxXSTP3cCgwD7aBhTNuTHQf7CBuTJqrhrCEtlk/edit?usp=sharing)                                                            |
 | OCR                                                                 | 01.10.2022            | 10:00        | [OCR](week-10-ocr)                                                                        |
-| OCR                                                                 | 11.10.2022            | 18:00        | GAN                                                                        |
-| OCR                                                                 | 15.10.2022            | 10:00        | Диффузионные модели                                                        |
+| OCR                                                                 | 11.10.2022            | 18:00        | [GAN](https://docs.google.com/presentation/d/1pUxx5LHKSEFqyYs38HhacbyaU2PSgSp8sWAUAwcTiqg/edit?usp=sharing)                                                                        |
+| OCR                                                                 | 15.10.2022            | 10:00        | [Диффузионные модели](https://docs.google.com/presentation/d/1atqsqsYqJadethfBAvS2Bcbtjvb3zgjXw08IGGmED2w/edit?usp=sharing)                                                        |
 | *Optional*                                                          | 18.10.2022            | 18:00        | Встреча с психологом                                                       |
 |                                                                     | 09.10.2022-01.11.2022 |              | Досдаем задания                                                            |
 
