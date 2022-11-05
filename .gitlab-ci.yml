@@ -1,0 +1,5 @@
+pages:
+
+  artifacts:
+    paths:
+    - _stuff/_build/html
