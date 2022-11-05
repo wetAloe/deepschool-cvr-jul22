@@ -1,5 +1,22 @@
-pages:
+stages:
+  - build
+  - deploy
 
+jupyter-build:
+  stage: build
+  image: python:slim
+  script:
+    - pip install jupyter-book
+    - jupyter-book build _stuff/
   artifacts:
     paths:
-    - _stuff/_build/html
+      - _stuff/_build/
+
+pages:
+  stage: deploy
+  image: busybox:latest
+  script:
+    - mv _stuff/_build/html public
+  artifacts:
+    paths:
+      - public
