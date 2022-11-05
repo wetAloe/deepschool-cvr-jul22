@@ -7,16 +7,16 @@ jupyter-build:
   image: python:3.8
   script:
     - pip3 install jupyter-book
-    - jupyter-book build _stuff/
+    - jupyter-book build stuff/
   artifacts:
     paths:
-      - _stuff/_build/
+      - stuff/_build/
 
 pages:
   stage: deploy
   image: busybox:latest
   script:
-    - mv _stuff/_build/html public
+    - mv stuff/_build/html public
   artifacts:
     paths:
       - public
