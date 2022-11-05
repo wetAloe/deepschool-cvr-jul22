@@ -4,7 +4,7 @@ stages:
 
 jupyter-build:
   stage: build
-  image: python3.8
+  image: python:3.8
   script:
     - pip3 install jupyter-book
     - jupyter-book build _stuff/
