@@ -4,9 +4,9 @@ stages:
 
 jupyter-build:
   stage: build
-  image: python:slim
+  image: python3.8
   script:
-    - pip install jupyter-book
+    - pip3 install jupyter-book
     - jupyter-book build _stuff/
   artifacts:
     paths:
