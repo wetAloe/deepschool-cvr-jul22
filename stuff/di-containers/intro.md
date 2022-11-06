@@ -926,14 +926,12 @@ class Container(containers.DeclarativeContainer):
 ````
 ````{tab-item} test_utils
 ```{code-block} python
-```python
 class FakeDB:
     def __init__(self, connection_params):
         self._db = []
 
     def save(self, predict):
         self._db.append(predict)
-```
 ```
 ````
    
